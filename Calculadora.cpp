@@ -11,11 +11,11 @@ double resta(int num1, int num2){
     return num1 - num2;
 }
 
-int multiplica(int num1, int num2){
+double multiplica(int num1, int num2){
     return num1 * num2;
 }
 
-int divide(int num1, int num2){
+double divide(int num1, int num2){
     return 0;
 }
 
