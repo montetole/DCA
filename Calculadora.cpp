@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int suma(int num1, int num2){
+double suma(int num1, int num2){
     return num1 + num2;
 }
 
@@ -22,7 +22,7 @@ int divide(int num1, int num2){
 
 
 int main(){
-    int num1 = 0, num2 = 0, result = 0;
+    double num1 = 0, num2 = 0, result = 0;
     char operacion;
     
     cout << "Introduce el primer numero: ";
